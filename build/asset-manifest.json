@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/financial-variance-analysis/static/css/main.e6c13ad2.css",
-    "main.js": "/financial-variance-analysis/static/js/main.d7466b61.js",
+    "main.js": "/financial-variance-analysis/static/js/main.a94e2d40.js",
     "static/js/453.72d3a2eb.chunk.js": "/financial-variance-analysis/static/js/453.72d3a2eb.chunk.js",
     "index.html": "/financial-variance-analysis/index.html",
     "main.e6c13ad2.css.map": "/financial-variance-analysis/static/css/main.e6c13ad2.css.map",
-    "main.d7466b61.js.map": "/financial-variance-analysis/static/js/main.d7466b61.js.map",
+    "main.a94e2d40.js.map": "/financial-variance-analysis/static/js/main.a94e2d40.js.map",
     "453.72d3a2eb.chunk.js.map": "/financial-variance-analysis/static/js/453.72d3a2eb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.d7466b61.js"
+    "static/js/main.a94e2d40.js"
   ]
 }
